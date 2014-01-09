@@ -1,0 +1,15 @@
+*.pyc
+target
+.coverage
+user
+.project
+.pydevproject
+ve*
+*~
+.*~
+*.iml
+.idea
+out
+
+# generated pdoc documentation
+api-doc
